@@ -1,0 +1,2 @@
+# gomode
+learning go
